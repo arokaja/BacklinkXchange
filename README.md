@@ -1,6 +1,5 @@
 
   <body>
-  <img src="https://lh3.googleusercontent.com/-YRl49dDXqE8/VbEqBBHJyRI/AAAAAAAAD4M/JbcC7_yYrQ0/s640-Ic42/colorful-background.jpg" width="100%" height="auto"/>
   <h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Intro Project</h3>
 
