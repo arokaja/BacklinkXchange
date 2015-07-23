@@ -1,6 +1,6 @@
 var linkarray = [
-"Free <a href='http://backlinkxchange.blogspot.com/?track' title='Free Backlink Exchange' target='_blank'>BacklinkX</a>change + <a href='http://astavera.blogspot.com' title='Astavera' target='_blank'>Astavera</a>",
-"Free <a href='http://backlinkxchange.blogspot.com/?track' title='Free Backlink Exchange' target='_blank'>BacklinkX</a>change + <a href='http://padhangwengi.blogspot.com' title='Padhang Wengi' target='_blank'>Padhang Wengi</a>" // No comma after last entry
+"Free <a href='http://backlinkxchange.blogspot.com/?utm_source=backlink&utm_medium=exchange%20link&utm_campaign=Free%20BacklinkXchange' title='Free Backlink Exchange' target='_blank'>BacklinkXchange</a> + <a href='http://astavera.blogspot.com' title='Astavera' target='_blank'>Astavera</a>",
+"Free <a href='http://backlinkxchange.blogspot.com/?utm_source=backlink&utm_medium=exchange%20link&utm_campaign=Free%20BacklinkXchange' title='Free Backlink Exchange' target='_blank'>BacklinkXchange</a> + <a href='http://padhangwengi.blogspot.com' title='Padhang Wengi' target='_blank'>Padhang Wengi</a>" // No comma after last entry
 ];
 
 function RndLink() {
